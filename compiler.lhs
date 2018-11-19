@@ -1,7 +1,7 @@
 > import Control.Monad.Trans.Writer.Lazy
 > import Control.Monad.Trans.Class
 
-G52AFP Coursework 2 - Monadic Compiler
+Monadic Compiler
 
 Hangjian Yuan
 psyhy4@nottingham.ac.uk
